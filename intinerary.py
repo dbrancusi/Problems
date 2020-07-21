@@ -1,5 +1,4 @@
-def intinerary(llist, start):
-    #Ref.https://bit.ly/2Pb67Bk    
+def intinerary(llist, start):  
     itinerary_list = []
     itinerary_list.append(start)
 
